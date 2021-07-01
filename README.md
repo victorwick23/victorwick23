@@ -1,3 +1,3 @@
 - Hi iam VictorWick 
-- Ready to cook a beautifull code for you 
+- Ready to cook a beautifull code for you, and the bug too :)
 - The H in Programming is stand for happiness
